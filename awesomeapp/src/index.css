@@ -1,0 +1,25 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+.heading{
+  color:#fa9191;
+  text-align:center;
+  text-transform: capitalize;
+  text-shadow:0px 2px 4px #ffe9c5;
+  font-weight: bold;
+  margin:50px 0;
+  font-family: 'Roboto', sans-serif;
+
+}
+.img_src{
+  display:flex;
+  justify-content:center;
+}
+.img_src img
+{
+  width:250px;
+  height:300px;
+}
